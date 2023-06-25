@@ -6,9 +6,106 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "a61145cb-bb47-480c-b1e8-9baa24ab9303": {
+      "type": "multirow",
+      "blocks": {
+        "template--19362010104102__a61145cb-bb47-480c-b1e8-9baa24ab9303-16876837744e78bf8c-0": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--19362010104102__a61145cb-bb47-480c-b1e8-9baa24ab9303-16876837744e78bf8c-1": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--19362010104102__a61145cb-bb47-480c-b1e8-9baa24ab9303-16876837744e78bf8c-2": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19362010104102__a61145cb-bb47-480c-b1e8-9baa24ab9303-16876837744e78bf8c-0",
+        "template--19362010104102__a61145cb-bb47-480c-b1e8-9baa24ab9303-16876837744e78bf8c-1",
+        "template--19362010104102__a61145cb-bb47-480c-b1e8-9baa24ab9303-16876837744e78bf8c-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5ec9da3a-784f-4f02-88e6-eb569088b85c": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19362010104102__5ec9da3a-784f-4f02-88e6-eb569088b85c-1687694367f7c12b04-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--19362010104102__5ec9da3a-784f-4f02-88e6-eb569088b85c-1687694367f7c12b04-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--19362010104102__5ec9da3a-784f-4f02-88e6-eb569088b85c-1687694367f7c12b04-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19362010104102__5ec9da3a-784f-4f02-88e6-eb569088b85c-1687694367f7c12b04-0",
+        "template--19362010104102__5ec9da3a-784f-4f02-88e6-eb569088b85c-1687694367f7c12b04-1",
+        "template--19362010104102__5ec9da3a-784f-4f02-88e6-eb569088b85c-1687694367f7c12b04-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "a61145cb-bb47-480c-b1e8-9baa24ab9303",
+    "5ec9da3a-784f-4f02-88e6-eb569088b85c"
   ]
 }
